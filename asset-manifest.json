@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.291f36a4.chunk.css",
-    "main.js": "/static/js/main.6dc160aa.chunk.js",
-    "main.js.map": "/static/js/main.6dc160aa.chunk.js.map",
+    "main.css": "/static/css/main.79d8b27c.chunk.css",
+    "main.js": "/static/js/main.ebbb4cef.chunk.js",
+    "main.js.map": "/static/js/main.ebbb4cef.chunk.js.map",
     "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
     "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
-    "static/js/2.ccdb5b11.chunk.js": "/static/js/2.ccdb5b11.chunk.js",
-    "static/js/2.ccdb5b11.chunk.js.map": "/static/js/2.ccdb5b11.chunk.js.map",
+    "static/js/2.d4aa6560.chunk.js": "/static/js/2.d4aa6560.chunk.js",
+    "static/js/2.d4aa6560.chunk.js.map": "/static/js/2.d4aa6560.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.8eb0c91b4c0b394f20f078b8a1c918c0.js": "/precache-manifest.8eb0c91b4c0b394f20f078b8a1c918c0.js",
+    "precache-manifest.376080c7c49234d3990bbd61efb28aa2.js": "/precache-manifest.376080c7c49234d3990bbd61efb28aa2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.291f36a4.chunk.css.map": "/static/css/main.291f36a4.chunk.css.map",
-    "static/media/Brad Muise Resume.pdf": "/static/media/Brad Muise Resume.428e83a2.pdf",
-    "static/media/Talize.png": "/static/media/Talize.5d93ac90.png",
-    "static/media/VicWest.png": "/static/media/VicWest.e04cb9dc.png",
-    "static/media/logo.png": "/static/media/logo.68fb1f85.png",
-    "static/media/sBux.png": "/static/media/sBux.d08e3832.png"
+    "static/css/main.79d8b27c.chunk.css.map": "/static/css/main.79d8b27c.chunk.css.map",
+    "static/media/LinkedIn.png": "/static/media/LinkedIn.df285ee6.png",
+    "static/media/Pinterest.png": "/static/media/Pinterest.cfbe6ef6.png",
+    "static/media/fb.png": "/static/media/fb.37372a48.png",
+    "static/media/twitterimg.png": "/static/media/twitterimg.e41bfb7e.png",
+    "static/media/user.png": "/static/media/user.eb920667.png"
   }
 }
